@@ -39,6 +39,7 @@
     "date-fns": "^4.1.0",
     "dayjs": "^1.11.13",
     "emoji-picker-react": "4.12.2",
+    "expo": "~55.0.15",
     "formik": "2.4.6",
     "formik-mui": "^5.0.0-alpha.1",
     "framer-motion": "12.10.0",
